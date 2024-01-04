@@ -7,3 +7,5 @@
     * Introduction to interfaces
 * Phase three on Basic Combat completed
     * Cheated base character prefab and variants for the Player and Enemy
+* Phase four of basic combat completed
+
