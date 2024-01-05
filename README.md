@@ -8,4 +8,5 @@
 * Phase three on Basic Combat completed
     * Cheated base character prefab and variants for the Player and Enemy
 * Phase four of basic combat completed
-
+* Completed Enemy AI
+* Fixed an issue with Player and Enemy sliding when getting attacked
