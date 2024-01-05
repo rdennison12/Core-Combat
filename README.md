@@ -10,3 +10,4 @@
 * Phase four of basic combat completed
 * Completed Enemy AI
 * Fixed an issue with Player and Enemy sliding when getting attacked
+* Adjusted Follow Camera to follow the player closer to ground
